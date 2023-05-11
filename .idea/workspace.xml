@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9481fb72-520c-4827-bd42-af24e6edf1b7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/maven/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OuS8WtNNbfKYA7eiYeaSb3H3lL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruijiwaimai/src/main/java/com/lanyu/entity" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ruijiwaimai\src\main\java\com\lanyu\entity" />
+      <recent name="E:\ruijiwaimai\src\main\java\com\lanyu\controller" />
+      <recent name="E:\ruijiwaimai\src\main\java\com\lanyu\Utils" />
+      <recent name="E:\ruijiwaimai\src\main\java\com\lanyu\dto" />
+      <recent name="E:\ruijiwaimai\src\main\resources\backend\page\demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ruijiwaimai\src\main\java\com\lanyu\Utils" />
+      <recent name="E:\ruiji\src\main\java\com\lanyu\common" />
+      <recent name="E:\ruiji\src\main\resources" />
+      <recent name="E:\ruiji\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lanyu.controller" />
+      <recent name="com.lanyu.entity" />
+      <recent name="com.lanyu.filter" />
+      <recent name="com.lanyu.handle" />
+      <recent name="com.lanyu.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RuijiwaimaiApplication">
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lanyu.SMScode.Sample" />
+      <module name="ruijiwaimai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lanyu.SMScode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuijiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ruiji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lanyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lanyu.RuijiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuijiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="ruijiwaimai" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lanyu.RuijiwaimaiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuijiwaimaiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruijiwaimai" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lanyu.RuijiwaimaiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sample" />
+      <item itemvalue="Spring Boot.RuijiwaimaiApplication" />
+      <item itemvalue="Spring Boot.RuijiApplication" />
+      <item itemvalue="Spring Boot.RuijiApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Spring Boot.RuijiApplication (1)" />
+        <item itemvalue="Spring Boot.RuijiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showFiles" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9481fb72-520c-4827-bd42-af24e6edf1b7" name="Changes" comment="" />
+      <created>1682408816559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682408816559</updated>
+      <workItem from="1682408817869" duration="1110000" />
+      <workItem from="1682409962567" duration="10586000" />
+      <workItem from="1682468475350" duration="16977000" />
+      <workItem from="1682506263433" duration="3352000" />
+      <workItem from="1682566227015" duration="2985000" />
+      <workItem from="1682735602420" duration="2000" />
+      <workItem from="1683172978023" duration="3486000" />
+      <workItem from="1683176478523" duration="6760000" />
+      <workItem from="1683184759154" duration="11713000" />
+      <workItem from="1683205557116" duration="6501000" />
+      <workItem from="1683263700641" duration="13281000" />
+      <workItem from="1683289153353" duration="6356000" />
+      <workItem from="1683442104867" duration="10578000" />
+      <workItem from="1683524401969" duration="18438000" />
+      <workItem from="1683609102761" duration="9139000" />
+      <workItem from="1683694999149" duration="13933000" />
+      <workItem from="1683791092337" duration="1485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ruijiwaimai/src/main/java/com/lanyu/controller/EmployeeController.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://G:/maven/Mavenhouse/com/baomidou/mybatis-plus-extension/3.5.3.1/mybatis-plus-extension-3.5.3.1.jar!/com/baomidou/mybatisplus/extension/service/IService.class</url>
+          <line>46</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ruijiwaimai/src/main/java/com/lanyu/service/impl/EmployeeServiceImpl.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ruijiwaimai/src/main/java/com/lanyu/service/impl/SetmealServiceImpl.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ruijiwaimai/src/main/java/com/lanyu/controller/UserController.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../ruijiwaimai/src/main/java/com/lanyu/controller/DishController.java</url>
+          <line>42</line>
+          <properties class="com.lanyu.controller.DishController" method="save">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../ruijiwaimai/src/main/java/com/lanyu/controller/DishController.java</url>
+          <line>66</line>
+          <properties class="com.lanyu.controller.DishController" method="getList">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
